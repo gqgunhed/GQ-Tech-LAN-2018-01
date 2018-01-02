@@ -26,3 +26,6 @@ Nachfolgend eine Aufstellung mit Ideen, was wir an der nächsten Tech-LAN machen
  - RaspberryPi mit GPIO
  - Arduino
 - http://www.openhab.org/
+
+## Hinweise, Zusatzmaterial
+- CS144 Introduction to Computer Networking Fall 2016 Stanford University Playlist: https://www.youtube.com/playlist?list=PLK5LBGAqhW7_FNgTSY4UIB58ZEVao13IY
