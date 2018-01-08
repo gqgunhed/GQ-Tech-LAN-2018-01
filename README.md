@@ -18,6 +18,10 @@ Nachfolgend eine Aufstellung mit Ideen, was wir an der nächsten Tech-LAN machen
   - eine eigene verbesserte KI, siehe
     - Vcom AI
     - ASR AI
+- Arma3 Webfrontend zum Kombinieren mehrerer Loadouts mit Django oder Flask
+  - Jacke auswählen
+  - Inhalt der Weste auswählen (standard, ace, ace-mdeical-adv)
+  - Rucksack
 - Minecraft
   - computer_craft, siehe https://github.com/gqgunhed/computercraft-pack
  
